@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>mercedes Snapshot Nexus Repository </name>
+	      <name>mercedes snapshot Nexus Repository </name>
 	      <url>http://13.208.242.38:8081/repository/mercedes-snapshot/</url>
 	    </snapshotRepository>
 	    
